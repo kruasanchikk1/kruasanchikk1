@@ -6,10 +6,10 @@
 
 ## 🧑‍💻 Обо мне
 
-Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе ГУАП, сейчас работаю дата-аналитиком в **Альфа-Банке**. Люблю превращать хаотичные процессы в систему и применять ML там, где это реально двигает бизнес-метрику, а не ради самого ML.
+Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе ГУАП, сейчас работаю аналитиком в **Альфа-Банке**. Люблю превращать хаотичные процессы в систему и применять ML там, где это реально двигает бизнес-метрику, а не ради самого ML.
 
-- 🔭 Сейчас делаю: продуктовые кейсы (SQL + A/B-тесты + причинно-следственный анализ)
-- 🌱 Бэкграунд: ML-соревнования, хакатоны, кейс-чемпионаты
+- 🌱 Развиваюсь в сторону продуктовой аналитики: SQL + A/B-тесты + причинно-следственный анализ
+- 🔭 Бэкграунд: ML-соревнования, хакатоны, кейс-чемпионаты
 - ⚡ Цель: Product/Data Analyst в e-commerce и финтехе (Ozon, WB, Яндекс, Тинькофф)
 
 ---
@@ -19,7 +19,7 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 - 🥇 **«История будущего»** (международный кейс-чемпионат) — 1 место, номинация за оригинальность
 - 🥉 **Инженерный Олимп** (УрФУ) — 3 место
 - Хакатоны: Ozon ML Cup, МТС True Tech Hack, CodeRock ML — участник
-- Стажировка в Альфа-Банке через хакатон «Бизнес Шторм» (ВШЭ)
+- Стажировка в Systems Education через хакатон «Бизнес Шторм» (ВШЭ)
 
 ---
 
@@ -75,15 +75,6 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 | [voice2action](https://github.com/kruasanchikk1/voice2action) | LLM-агент: транскрибация встреч (Yandex SpeechKit) + анализ (YandexGPT) + экспорт в Jira/Google Docs |
 | [product-cases](https://github.com/kruasanchikk1/product-cases) | Кейс-чемпионаты: продуктовая стратегия без кода (X5 Group) |
 | [analytics_ew](https://github.com/kruasanchikk1/analytics_ew) | Голосовой агент для Google Sheets: офлайн STT + LlamaIndex + MCP |
-
----
-
-## 📊 Статистика GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kruasanchikk1&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruasanchikk1&theme=dracula&hide_border=true&layout=compact&count_private=true"/>
-</div>
 
 ---
 
