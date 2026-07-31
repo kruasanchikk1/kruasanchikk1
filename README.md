@@ -4,13 +4,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Обо мне
 
-Product/Data Analyst with an ML overlay. 3rd-year student at GUAP, currently working as a data analyst at **Alfa-Bank**. I like turning messy processes into systems, and using ML only where it actually moves a business metric — not for its own sake.
+Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе ГУАП, сейчас работаю дата-аналитиком в **Альфа-Банке**. Люблю превращать хаотичные процессы в систему и применять ML там, где это реально двигает бизнес-метрику, а не ради самого ML.
 
-- 🔭 Currently working on: product-analytics case studies (SQL + A/B testing + causal inference)
-- 🌱 Background in ML competitions, hackathons, and case championships
-- ⚡ Target: Product/Data Analyst roles at e-commerce & fintech (Ozon, WB, Yandex, Tinkoff)
+- 🔭 Сейчас делаю: продуктовые кейсы (SQL + A/B-тесты + причинно-следственный анализ)
+- 🌱 Бэкграунд: ML-соревнования, хакатоны, кейс-чемпионаты
+- ⚡ Цель: Product/Data Analyst в e-commerce и финтехе (Ozon, WB, Яндекс, Тинькофф)
 
 ---
 
@@ -23,7 +23,7 @@ Product/Data Analyst with an ML overlay. 3rd-year student at GUAP, currently wor
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Технический стек
 
 **Data & Analytics**
 
@@ -31,6 +31,20 @@ Product/Data Analyst with an ML overlay. 3rd-year student at GUAP, currently wor
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Статистика и BI**
+
+![scipy](https://img.shields.io/badge/scipy.stats-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Data Engineering**
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 **ML**
 
@@ -47,11 +61,13 @@ Product/Data Analyst with an ML overlay. 3rd-year student at GUAP, currently wor
 **AI / LLM**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+## 📌 Избранные проекты
 
 | Проект | Описание |
 |---|---|
@@ -62,7 +78,7 @@ Product/Data Analyst with an ML overlay. 3rd-year student at GUAP, currently wor
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Статистика GitHub
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kruasanchikk1&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -71,7 +87,6 @@ Product/Data Analyst with an ML overlay. 3rd-year student at GUAP, currently wor
 
 ---
 
-## 🌐 Connect
+## 🌐 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kruasanchik17)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markanodov@gmail.com)
