@@ -11,23 +11,45 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 - 🌱 Развиваюсь в сторону продуктовой аналитики: SQL + A/B-тесты + причинно-следственный анализ
 - 🔭 Бэкграунд: ML-соревнования, хакатоны, кейс-чемпионаты
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kruasanchik17)
+
 ---
 
 ## 🏆 Достижения
 
-*От новых к старым:*
+**Хакатоны и кейс-чемпионаты**
 
-- 📊 **Летняя школа по бизнес-аналитике** (СПбГУ), июнь–июль 2026 — в её рамках сделан [кейс кредитного скоринга Сбербанка](https://github.com/kruasanchikk1/ml-competitions)
-- 🐘 **IT-Планета 2026** (СУБД PostgreSQL) — полуфиналист (2 этап), апрель 2026
-- 🤖 **МТС True Tech Hack** — участник, апрель 2026
-- 📄 **79-я Международная студенческая научная конференция ГУАП** — доклад по научной статье, апрель 2026
-- 🎓 **Университет Иннополис** — «Весенняя школа бакалавров 2026», трек «Искусственный интеллект и инженерия данных», март 2026
-- 💡 **CodeRock ML** — участник, январь 2026
 - 🥇 **«История будущего»** (международный кейс-чемпионат) — 1 место, номинация за оригинальность, ноябрь 2025
-- 📦 **Ozon ML Cup** — участник, август 2025
 - 🏛 **Кейс-чемпионат по государственному управлению** (Администрация Санкт-Петербурга, СПбПУ) — диплом финалиста в составе команды «Happy House», сентябрь 2024
 - 🔧 **Инженерный Олимп** (форум УрФУ, Сочи), команда «Вечерний кофий» — 3 место в кейсе ТМК (направление «Программная инженерия»), февраль 2024
 - ☕ **Хакатон «Бизнес Шторм»** (ВШЭ, Systems Education) — 3 место, ноябрь 2023 → стажировка в Systems Education
+
+**ML-соревнования**
+
+- 📦 **Ozon ML Cup** — участник, август 2025
+- 💡 **CodeRock ML** — участник, январь 2026
+- 🤖 **МТС True Tech Hack** — участник, апрель 2026
+
+**Обучение и стажировки**
+
+- 📊 **Летняя школа по бизнес-аналитике** (СПбГУ), июнь–июль 2026 — в её рамках сделан [кейс кредитного скоринга Сбербанка](https://github.com/kruasanchikk1/ml-competitions)
+- 🎓 **Университет Иннополис** — «Весенняя школа бакалавров 2026», трек «Искусственный интеллект и инженерия данных», март 2026
+- 🐘 **IT-Планета 2026** (СУБД PostgreSQL) — полуфиналист (2 этап), апрель 2026
+
+**Наука**
+
+- 📄 **79-я Международная студенческая научная конференция ГУАП** — доклад по научной статье, апрель 2026
+
+---
+
+## 📌 Избранные проекты
+
+| Проект | Описание |
+|---|---|
+| 📊 [ml-competitions](https://github.com/kruasanchikk1/ml-competitions) | ML-кейсы: рекомендательная система (Ozon), кредитный скоринг (Сбер), фрод-детекшн |
+| 🎙 [voice2action](https://github.com/kruasanchikk1/voice2action) | LLM-агент: транскрибация встреч (Yandex SpeechKit) + анализ (YandexGPT) + экспорт в Jira/Google Docs |
+| 🏬 [product-cases](https://github.com/kruasanchikk1/product-cases) | Кейс-чемпионаты: продуктовая стратегия без кода (X5 Group) |
+| 🗂 [analytics_ew](https://github.com/kruasanchikk1/analytics_ew) | Голосовой агент для Google Sheets: офлайн STT + LlamaIndex + MCP |
 
 ---
 
@@ -72,20 +94,3 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
-
----
-
-## 📌 Избранные проекты
-
-| Проект | Описание |
-|---|---|
-| 📊 [ml-competitions](https://github.com/kruasanchikk1/ml-competitions) | ML-кейсы: рекомендательная система (Ozon), кредитный скоринг (Сбер), фрод-детекшн |
-| 🎙 [voice2action](https://github.com/kruasanchikk1/voice2action) | LLM-агент: транскрибация встреч (Yandex SpeechKit) + анализ (YandexGPT) + экспорт в Jira/Google Docs |
-| 🏬 [product-cases](https://github.com/kruasanchikk1/product-cases) | Кейс-чемпионаты: продуктовая стратегия без кода (X5 Group) |
-| 🗂 [analytics_ew](https://github.com/kruasanchikk1/analytics_ew) | Голосовой агент для Google Sheets: офлайн STT + LlamaIndex + MCP |
-
----
-
-## 🌐 Контакты
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kruasanchik17)
