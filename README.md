@@ -64,11 +64,11 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 | Проект | Описание |
 |---|---|
 | 📊 [ml-competitions](https://github.com/kruasanchikk1/ml-competitions) | ML-кейсы: рекомендательная система (Ozon), кредитный скоринг (Сбер), фрод-детекшн |
-| 🗄 [postal-service-info-system](https://github.com/kruasanchikk1/postal-service-info-system) | БД PostgreSQL для ИС почтового отделения: 10 SQL-запросов с оконными функциями, хранимые процедуры, триггер аудита, ролевая модель доступа |
-| 📉 [credit-risk-scoring](https://github.com/kruasanchikk1/credit-risk-scoring) | Credit Risk: кластеризация не нашла сегменты риска (ARI≈0) → переход к классификации → ROC-AUC 0.865 |
 | 💬 [tbank-reviews-analysis](https://github.com/kruasanchikk1/tbank-reviews-analysis) | Кейс Т-Интенсива: 56K отзывов клиентов, 5 гипотез с тестами (Спирмен, ANOVA, χ²), найдена и исправлена своя же методологическая ошибка по ходу анализа |
-| 🎙 [voice2action](https://github.com/kruasanchikk1/voice2action) | LLM-агент: транскрибация встреч (Yandex SpeechKit) + анализ (YandexGPT) + экспорт в Jira/Google Docs |
+| 📉 [credit-risk-scoring](https://github.com/kruasanchikk1/credit-risk-scoring) | Credit Risk: кластеризация не нашла сегменты риска (ARI≈0) → переход к классификации → ROC-AUC 0.865 |
 | 🏬 [product-cases](https://github.com/kruasanchikk1/product-cases) | Кейс-чемпионаты: продуктовая стратегия без кода (X5 Group) |
+| 🗄 [postal-service-info-system](https://github.com/kruasanchikk1/postal-service-info-system) | БД PostgreSQL для ИС почтового отделения: 10 SQL-запросов с оконными функциями, хранимые процедуры, триггер аудита, ролевая модель доступа |
+| 🎙 [voice2action](https://github.com/kruasanchikk1/voice2action) | LLM-агент: транскрибация встреч (Yandex SpeechKit) + анализ (YandexGPT) + экспорт в Jira/Google Docs |
 | 🗂 [analytics_ew](https://github.com/kruasanchikk1/analytics_ew) | Голосовой агент для Google Sheets: офлайн STT + LlamaIndex + MCP |
 
 ---
