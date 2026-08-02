@@ -64,6 +64,8 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 | Проект | Описание |
 |---|---|
 | 📊 [ml-competitions](https://github.com/kruasanchikk1/ml-competitions) | ML-кейсы: рекомендательная система (Ozon), кредитный скоринг (Сбер), фрод-детекшн |
+| 🗄 [postal-service-info-system](https://github.com/kruasanchikk1/postal-service-info-system) | БД PostgreSQL для ИС почтового отделения: 10 SQL-запросов с оконными функциями, хранимые процедуры, триггер аудита, ролевая модель доступа |
+| 📉 [credit-risk-scoring](https://github.com/kruasanchikk1/credit-risk-scoring) | Credit Risk: кластеризация не нашла сегменты риска (ARI≈0) → переход к классификации → ROC-AUC 0.865 |
 | 🎙 [voice2action](https://github.com/kruasanchikk1/voice2action) | LLM-агент: транскрибация встреч (Yandex SpeechKit) + анализ (YandexGPT) + экспорт в Jira/Google Docs |
 | 🏬 [product-cases](https://github.com/kruasanchikk1/product-cases) | Кейс-чемпионаты: продуктовая стратегия без кода (X5 Group) |
 | 🗂 [analytics_ew](https://github.com/kruasanchikk1/analytics_ew) | Голосовой агент для Google Sheets: офлайн STT + LlamaIndex + MCP |
@@ -77,7 +79,7 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 - 📦 **Ozon ML Cup** — участник, август 2025
 - 💡 **CodeRock ML** — участник, январь 2026
 - 🤖 **МТС True Tech Hack** — участник, апрель 2026
-- 🐘 **IT-Планета 2026** (СУБД PostgreSQL) — полуфиналист (2 этап), апрель 2026
+- 🐘 **IT-Планета 2026** (СУБД PostgreSQL) — полуфиналист (2 этап), апрель 2026; тот же стек — в [курсовой по проектированию БД](https://github.com/kruasanchikk1/postal-service-info-system)
 - 🥇 **«История будущего»** (международный кейс-чемпионат) — 1 место, номинация за оригинальность, ноябрь 2025
 - 🏬 **X5 Group «Нереальная практика»** — [кейс подписки «Пакет» для аудитории 50+](https://github.com/kruasanchikk1/product-cases/tree/main/x5-podpiska-50plus)
 
