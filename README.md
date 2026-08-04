@@ -6,10 +6,10 @@
 
 ## 🧑‍💻 Обо мне
 
-Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе ГУАП, сейчас работаю аналитиком в **Альфа-Банке**. Люблю превращать хаотичные процессы в систему и применять ML там, где это реально двигает бизнес-метрику, а не ради самого ML.
+Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе ГУАП, сейчас работаю аналитиком в крупном банке. Люблю превращать хаотичные процессы в систему и применять ML там, где это реально двигает бизнес-метрику, а не ради самого ML.
 
-- 🌱 Развиваюсь в сторону продуктовой аналитики: SQL + A/B-тесты + причинно-следственный анализ
-- 🔭 Бэкграунд: ML-соревнования, хакатоны, кейс-чемпионаты
+- 🌱 Развиваюсь в сторону продуктовой и дата-аналитики: SQL + A/B-тесты + причинно-следственный анализ
+- 🔭 Бэкграунд: финтех и эдтех-проекты, кейс-чемпионаты, опыт в маркетинговом агентстве
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kruasanchik17)
 
@@ -63,13 +63,30 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 
 По жанру навыка, не по теме — так виднее, что я умею разное, а не решаю одну и ту же задачу по кругу.
 
-| Жанр | Проекты |
-|---|---|
-| 📊 **ML-моделирование** | [ml-competitions](https://github.com/kruasanchikk1/ml-competitions) — рекомендательная система Ozon E-CUP (NDCG@100=0.34), Codenrock ML-марафон (4/4 задачи), PD-кривая дефолта для Сбербанка (Gini 0.61–0.75), исследование балансировки классов во фрод-детекшне · [credit-risk-scoring](https://github.com/kruasanchikk1/credit-risk-scoring) — кластеризация не нашла сегменты риска → переход к классификации → ROC-AUC 0.865 |
-| 💬 **Продуктовая аналитика** | [tbank-reviews-analysis](https://github.com/kruasanchikk1/tbank-reviews-analysis) — 56K отзывов клиентов, 5 гипотез проверены статтестами (Спирмен, ANOVA, χ²), инсайты для бизнеса по SLA, сегментам и онбордингу |
-| 🗄 **SQL / инженерия данных** | [postal-service-info-system](https://github.com/kruasanchikk1/postal-service-info-system) — PostgreSQL (3NF, оконные функции, триггеры, ролевая модель доступа) + FastAPI backend + дашборд |
-| 🏬 **Продуктовая стратегия** | [X5 Product Case](https://github.com/kruasanchikk1/product-cases) — стратегия повышения проникновения подписки «Пакет» в сегменте 50+, пилот в СПб |
-| 🤖 **LLM / AI-агенты** | [voice2action](https://github.com/kruasanchikk1/voice2action) — транскрибация встреч (Yandex SpeechKit) + LLM-анализ (YandexGPT) + экспорт в Google Docs · [analytics_ew](https://github.com/kruasanchikk1/analytics_ew) — голосовой агент для Google Sheets: офлайн STT + LlamaIndex + MCP |
+### 📊 ML-моделирование
+
+- **[Рекомендации для Ozon E-CUP 2025](https://github.com/kruasanchikk1/ml-competitions/tree/main/ozon-ecup-2025)** — рекомендательная система следующей покупки (категория Apparel) → NDCG@100 = 0.34
+- **[Codenrock ML-марафон 2026](https://github.com/kruasanchikk1/ml-competitions/tree/main/codenrock-ml-marathon-2026)** — 4 задачи (классификация, дисбаланс классов, NLP) → решены все 4
+- **[Кредитный скоринг](https://github.com/kruasanchikk1/credit-risk-scoring)** — сначала кластеризация (не нашла сегменты риска), затем классификация → ROC-AUC 0.865, интерпретируемая логрег
+- **[PD-кривая дефолта — Сбербанк](https://github.com/kruasanchikk1/ml-competitions/tree/main/sberbank-default-curve)** (GSOM Summer School) — прогноз на 12 кварталов, 12 независимых логрегов → Gini 0.61–0.75
+- **[Балансировка классов во фрод-детекшне](https://github.com/kruasanchikk1/ml-competitions/tree/main/fraud-detection-balancing)** — исследование влияния SMOTE/undersampling/весов классов на качество моделей; легло в основу [доклада на 79-й студенческой конференции ГУАП](https://github.com/kruasanchikk1/ml-competitions/tree/main/fraud-detection-balancing)
+
+### 💬 Продуктовая аналитика
+
+- **[Т-Банк: анализ отзывов](https://github.com/kruasanchikk1/tbank-reviews-analysis)** — 56K отзывов клиентов с 20 площадок, 5 гипотез проверены статтестами (Спирмен, ANOVA, χ²) → инсайты по SLA, сегментам дохода и онбордингу новых клиентов
+
+### 🗄 SQL / инженерия данных
+
+- **[Информационная система почтового отделения](https://github.com/kruasanchikk1/postal-service-info-system)** — PostgreSQL (3NF, оконные функции, триггеры, ролевая модель доступа) + FastAPI backend + дашборд → рабочий end-to-end сервис с 3 ролями доступа
+
+### 🏬 Продуктовая стратегия
+
+- **[X5 Product Case](https://github.com/kruasanchikk1/product-cases/tree/main/x5-podpiska-50plus)** — стратегия повышения проникновения подписки «Пакет» в сегменте 50+ → пилотный план для СПб
+
+### 🤖 LLM / AI-агенты
+
+- **[voice2action](https://github.com/kruasanchikk1/voice2action)** — транскрибация встреч (Yandex SpeechKit) + LLM-анализ (YandexGPT) → экспорт протокола/задач в Google Docs
+- **[analytics_ew](https://github.com/kruasanchikk1/analytics_ew)** — голосовой агент для Google Sheets: офлайн STT (Vosk) + LlamaIndex-агент + MCP-протокол
 
 ---
 
