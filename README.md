@@ -65,11 +65,11 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 
 ### 📊 ML-моделирование
 
-- **[Рекомендации для Ozon E-CUP 2025](https://github.com/kruasanchikk1/ml-competitions/tree/main/ozon-ecup-2025)** — рекомендательная система следующей покупки (категория Apparel) → NDCG@100 = 0.34
-- **[Codenrock ML-марафон 2026](https://github.com/kruasanchikk1/ml-competitions/tree/main/codenrock-ml-marathon-2026)** — 4 задачи (классификация, дисбаланс классов, NLP) → решены все 4
+- **[Сбербанк — PD-кривая дефолта](https://github.com/kruasanchikk1/ml-competitions/tree/main/sberbank-default-curve)** (GSOM Summer School) — прогноз на 12 кварталов, 12 независимых логрегов → Gini 0.61–0.75
 - **[Кредитный скоринг](https://github.com/kruasanchikk1/credit-risk-scoring)** — сначала кластеризация (не нашла сегменты риска), затем классификация → ROC-AUC 0.865, интерпретируемая логрег
-- **[PD-кривая дефолта — Сбербанк](https://github.com/kruasanchikk1/ml-competitions/tree/main/sberbank-default-curve)** (GSOM Summer School) — прогноз на 12 кварталов, 12 независимых логрегов → Gini 0.61–0.75
 - **[Балансировка классов во фрод-детекшне](https://github.com/kruasanchikk1/ml-competitions/tree/main/fraud-detection-balancing)** — исследование влияния SMOTE/undersampling/весов классов на качество моделей; легло в основу [доклада на 79-й студенческой конференции ГУАП](https://github.com/kruasanchikk1/ml-competitions/tree/main/fraud-detection-balancing)
+- **[Codenrock ML-марафон 2026](https://github.com/kruasanchikk1/ml-competitions/tree/main/codenrock-ml-marathon-2026)** — 4 задачи (классификация, дисбаланс классов, NLP) → решены все 4
+- **[Рекомендации для Ozon E-CUP 2025](https://github.com/kruasanchikk1/ml-competitions/tree/main/ozon-ecup-2025)** — рекомендательная система следующей покупки (категория Apparel) → NDCG@100 = 0.34
 
 ### 💬 Продуктовая аналитика
 
