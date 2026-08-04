@@ -61,15 +61,15 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 
 ## 📌 Избранные проекты
 
-| Проект | Описание |
+По жанру навыка, не по теме — так виднее, что я умею разное, а не решаю одну и ту же задачу по кругу.
+
+| Жанр | Проекты |
 |---|---|
-| 📊 [ml-competitions](https://github.com/kruasanchikk1/ml-competitions) | ML-кейсы: рекомендательная система (Ozon), кредитный скоринг (Сбер), фрод-детекшн |
-| 💬 [tbank-reviews-analysis](https://github.com/kruasanchikk1/tbank-reviews-analysis) | Кейс Т-Интенсива: 56K отзывов клиентов, 5 гипотез с тестами (Спирмен, ANOVA, χ²), найдена и исправлена своя же методологическая ошибка по ходу анализа |
-| 📉 [credit-risk-scoring](https://github.com/kruasanchikk1/credit-risk-scoring) | Credit Risk: кластеризация не нашла сегменты риска (ARI≈0) → переход к классификации → ROC-AUC 0.865 |
-| 🏬 [product-cases](https://github.com/kruasanchikk1/product-cases) | Кейс-чемпионаты: продуктовая стратегия без кода (X5 Group) |
-| 🗄 [postal-service-info-system](https://github.com/kruasanchikk1/postal-service-info-system) | БД PostgreSQL для ИС почтового отделения: 10 SQL-запросов с оконными функциями, хранимые процедуры, триггер аудита, ролевая модель доступа |
-| 🎙 [voice2action](https://github.com/kruasanchikk1/voice2action) | LLM-агент: транскрибация встреч (Yandex SpeechKit) + анализ (YandexGPT) + экспорт в Jira/Google Docs |
-| 🗂 [analytics_ew](https://github.com/kruasanchikk1/analytics_ew) | Голосовой агент для Google Sheets: офлайн STT + LlamaIndex + MCP |
+| 📊 **ML-моделирование** | [ml-competitions](https://github.com/kruasanchikk1/ml-competitions) — рекомендательная система Ozon E-CUP (NDCG@100=0.34), Codenrock ML-марафон (4/4 задачи), PD-кривая дефолта для Сбербанка (Gini 0.61–0.75), исследование балансировки классов во фрод-детекшне · [credit-risk-scoring](https://github.com/kruasanchikk1/credit-risk-scoring) — кластеризация не нашла сегменты риска → переход к классификации → ROC-AUC 0.865 |
+| 💬 **Продуктовая аналитика** | [tbank-reviews-analysis](https://github.com/kruasanchikk1/tbank-reviews-analysis) — 56K отзывов клиентов, 5 гипотез проверены статтестами (Спирмен, ANOVA, χ²), инсайты для бизнеса по SLA, сегментам и онбордингу |
+| 🗄 **SQL / инженерия данных** | [postal-service-info-system](https://github.com/kruasanchikk1/postal-service-info-system) — PostgreSQL (3NF, оконные функции, триггеры, ролевая модель доступа) + FastAPI backend + дашборд |
+| 🏬 **Продуктовая стратегия** | [X5 Product Case](https://github.com/kruasanchikk1/product-cases) — стратегия повышения проникновения подписки «Пакет» в сегменте 50+, пилот в СПб |
+| 🤖 **LLM / AI-агенты** | [voice2action](https://github.com/kruasanchikk1/voice2action) — транскрибация встреч (Yandex SpeechKit) + LLM-анализ (YandexGPT) + экспорт в Google Docs · [analytics_ew](https://github.com/kruasanchikk1/analytics_ew) — голосовой агент для Google Sheets: офлайн STT + LlamaIndex + MCP |
 
 ---
 
