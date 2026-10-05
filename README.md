@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Обо мне
 
-Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе ГУАП, сейчас работаю аналитиком в крупном банке. Люблю превращать хаотичные процессы в систему и применять ML там, где это реально двигает бизнес-метрику, а не ради самого ML.
+Product/Data Analyst с ML-надстройкой. Учусь на 4 курсе ГУАП, сейчас работаю аналитиком в крупном банке. Люблю превращать хаотичные процессы в систему и применять ML там, где это реально двигает бизнес-метрику, а не ради самого ML.
 
 - 🌱 Развиваюсь в сторону продуктовой и дата-аналитики: SQL + A/B-тесты + причинно-следственный анализ
 - 🔭 Бэкграунд: финтех и эдтех-проекты, кейс-чемпионаты, опыт в маркетинговом агентстве
@@ -86,6 +86,7 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 ### 🤖 LLM / AI-агенты
 
 - **[voice2action](https://github.com/kruasanchikk1/voice2action)** — транскрибация встреч (Yandex SpeechKit) + LLM-анализ (YandexGPT) → экспорт протокола/задач в Google Docs
+- **[langflow-rag](https://github.com/kruasanchikk1/ml-competitions/tree/main/langflow-rag)** - RAG-пайплайн в Langflow по 161-ФЗ: чанкинг с overlap, двухэтапный поиск с реранкингом, Langflow и Qdrant в Docker → accuracy@1 90% (BGE-M3, 10 вопросов)
 - **[analytics_ew](https://github.com/kruasanchikk1/analytics_ew)** — голосовой агент для Google Sheets: офлайн STT (Vosk) + LlamaIndex-агент + MCP-протокол
 
 ---
@@ -99,6 +100,7 @@ Product/Data Analyst с ML-надстройкой. Учусь на 3 курсе 
 - 🤖 **МТС True Tech Hack** — участник, апрель 2026
 - 🐘 **IT-Планета 2026** (СУБД PostgreSQL) — полуфиналист (2 этап), апрель 2026; тот же стек — в [курсовой по проектированию БД](https://github.com/kruasanchikk1/postal-service-info-system)
 - 🥇 **«История будущего»** (международный кейс-чемпионат) — 1 место, номинация за оригинальность, ноябрь 2025
+- 🏛 **Санкт-Петербургский кейс-чемпионат по государственному управлению** (Администрация СПб) - финалист, диплом, сентябрь 2024 - [материалы](https://github.com/kruasanchikk1/ml-competitions/tree/main/spb-gosupravlenie-case-championship-2024)
 - 🏬 **X5 Group «Нереальная практика»** — [кейс подписки «Пакет» для аудитории 50+](https://github.com/kruasanchikk1/product-cases/tree/main/x5-podpiska-50plus)
 
 **Обучение и стажировки**
